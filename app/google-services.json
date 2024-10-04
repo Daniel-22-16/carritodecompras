@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829097816849",
+    "project_id": "trabajofinal-carrito-de-compra",
+    "storage_bucket": "trabajofinal-carrito-de-compra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829097816849:android:3ec2de73d907de18be52b0",
+        "android_client_info": {
+          "package_name": "com.example.trabajo_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0DeHLB7zZQlSO03B1rbcKVCyJY3OwBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
